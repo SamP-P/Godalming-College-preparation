@@ -13,11 +13,14 @@ work done pre college to prep for comp sci and IT.
 -
 6. free code camp:
 -
-7.
--
-8.
--
-9.
--
-10.
--
+7.IDEA:
+- e-safety
+- 
+8. films
+- the matrix
+- we are legion
+9. game maker
+- space rocks
+- 
+10. snakify
+- 1-7 completed
