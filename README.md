@@ -15,10 +15,12 @@ work done pre college to prep for comp sci and IT.
 -
 7.IDEA:
 - e-safety
+- collaberation
 - 
 8. films
 - the matrix
 - we are legion
+- 
 9. game maker
 - space rocks
 - 
